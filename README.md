@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m currently with a couple of proyects in mind
-🌱 I’m currently learning FullStack course
+- 🔭 I’m currently with a couple of proyects in mind
+- 🌱 I’m currently learning FullStack course
   
 <!--- stats & Trophy (start) -->
 <p align="center">
